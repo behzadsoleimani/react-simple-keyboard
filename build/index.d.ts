@@ -1,4 +1,4 @@
-declare module 'react-simple-keyboard' {
+declare module 'react-simple-keyboards' {
   interface KeyboardLayoutObject {
     [key: string]: string[];
   }
